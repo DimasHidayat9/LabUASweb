@@ -21,8 +21,3 @@ Inovasi Manajemen Gambar Salah satu fitur unggulan yang kita kembangkan adalah S
 
 ## Kesimpulan
 Secara keseluruhan, project Showroom sederhana  ini bukan sekadar aplikasi CRUD (Create, Read, Update, Delete) biasa, melainkan sebuah solusi manajemen terpadu yang menggabungkan estetika tampilan dengan fungsionalitas teknis yang solid. Sistem ini siap memberikan kemudahan bagi Yang Mulia dalam memantau stok serta memberikan layanan informasi terbaik bagi calon pelanggan.
-
-# Link Dokumentasi YouTube :
-
-# Dokumentasi Berupa File  :[Penjelasan UAS Pemograman Web-1.pdf](https://github.com/user-attachments/files/24522520/Penjelasan.UAS.Pemograman.Web-1.pdf)
-
