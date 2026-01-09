@@ -24,4 +24,5 @@ Secara keseluruhan, project Showroom sederhana  ini bukan sekadar aplikasi CRUD 
 
 # Link Dokumentasi YouTube :
 
-# Dokumentasi Berupa File  :
+# Dokumentasi Berupa File  :[Penjelasan UAS Pemograman Web-1.pdf](https://github.com/user-attachments/files/24522520/Penjelasan.UAS.Pemograman.Web-1.pdf)
+
